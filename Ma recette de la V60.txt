@@ -2,9 +2,19 @@
 
 Je sais, ça fait un moment que je n’ai pas mis les pieds ici, mais je vous avais prévenu que les publications seraient assez aléatoires. Bref, aujourd’hui, on parle de café et de ma méthode d’extraction préférée : la V60.
 
-<https://drive.google.com/file/d/1opmDw6U9vvwh6DYThQZRTILKW0dnLoGe/view?usp=share_link>
-
-![](DSCF0087.jpg)
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Draft of DSCF0087.jpg</title>
+    <!-- Following tag identifies this file as a preview which Blot will turn into a blog post -->
+    <meta data-blot-document="preview-container"/>
+</head>
+<body style="margin:0;padding:0">
+  <!-- I recieved reports of strange double scrollbar issues. These were fixed with the addition of height:100%.  Not sure why, don't really care to find out. I added width:100% for good measure. -->
+  <iframe src="http://thibauddsblog.blot.im/draft/view/drafts/DSCF0087.jpg" style="position:absolute;top:0;left:0;right:0;bottom:0;border:none;height:100%;width:100%"/>
+</body>
+</html>
 
 ## La V60 ?
 
